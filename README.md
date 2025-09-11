@@ -64,6 +64,13 @@ O **sensor infravermelho** é mais adequado para detecção de gols, pois:
 - Usar **buzzer ou LEDs** para indicar gol com efeitos visuais/sonoros.  
 
 ---
+### Projeto no simulador 
+
+![Imagem do Protótipo](./assests/protipo.png)
+
+[Link simulador](https://wokwi.com/projects/441735991721598977)
+
+---
 
 ## 👨‍💻 Autores  
 
@@ -76,3 +83,4 @@ O **sensor infravermelho** é mais adequado para detecção de gols, pois:
 - Gustavo Moura - RM566190
  
 - Pedro Henrique - RM563281
+
